@@ -1,6 +1,11 @@
 # Mac Quick Setup
 This project mainly uses [Homebrew](https://brew.sh/index_zh-tw.html), [Homebrew Cask](https://caskroom.github.io) to help you quickly install some commonly used apps and packages especially for users who usually uses terminal and MacOS. Feel free to fork this project and modify the installed apps to meet your requirements.
 
+## How to Use
+
+    bash quick_install.sh
+
+
 ## Installed Packages
 This project installs some commonly used apps and packages. Homebrew, Homebrew cask, pip, node are used as the package manager to install these apps and packages.
 
