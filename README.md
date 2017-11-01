@@ -32,6 +32,7 @@ These packages are installed through homebrew:
 * [gcc](https://gcc.gnu.org)  
 * [pv](https://linux.die.net/man/1/pv)
 * [mpv](https://mpv.io/installation/)  
+* [htop](https://github.com/hishamhm/htop)
 
 ### Packages installed through Homebrew Cask
 These packages are installed through Homebrew cask
