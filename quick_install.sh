@@ -32,3 +32,4 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim #
 curl https://raw.githubusercontent.com/LSChyi/Mac_quick_setup/master/.vimrc -o ~/.vimrc
 curl http://ftp.vim.org/vim/runtime/syntax/cuda.vim --create-dirs -o ~/.vim/syntax/cuda.vim
 curl https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim --create-dirs -o ~/.vim/colors/molokai.vim
+vim +PluginInstall +qall
