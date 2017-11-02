@@ -38,7 +38,7 @@ set showcmd
 set t_Co=256
 set backspace=indent,eol,start
 set linebreak
-set foldmethod=indent
+set foldmethod=syntax
 set foldlevel=5
 
 syntax on
