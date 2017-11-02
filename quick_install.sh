@@ -5,13 +5,14 @@ xcode-select --install
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" # install homebrew
 brew tap caskroom/cask
 brew tap osx-cross/avr
+brew tap caskroom/drivers
 
 brew cask install xquartz # due to wine, xquartz is needed to be installed first
 sh_packages="git aria2 node python3 nload lftp tmux zsh tree wget wine freetype p7zip cmake rsync youtube-dl sqlite coreutils gcc pv mpv htop avr-gcc"
 brew install $sh_packages
 brew upgrade $sh_packages
 
-apps="libreoffice libreoffice-language-pack google-chrome firefox slack macdown sublime-text messenger alfred telegram-desktop cd-to arduino vlc teensy tunnelblick karabiner-elements iterm2 nally appcleaner wireshark microsoft-office"
+apps="libreoffice libreoffice-language-pack google-chrome firefox slack macdown sublime-text messenger alfred telegram-desktop cd-to arduino vlc teensy tunnelblick karabiner-elements iterm2 nally appcleaner wireshark microsoft-office nordic-nrf5x-command-line-tools"
 brew cask install $apps
 
 py_packages="Django h5py html5lib httpie jupyter Keras matplotlib Pillow request sklearn tqdm virtualenv youtube-dl termcolor ipython beautifulsoup4 speedtest-cli mps-youtube"

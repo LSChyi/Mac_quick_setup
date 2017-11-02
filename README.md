@@ -60,6 +60,7 @@ These packages are installed through Homebrew cask
 * [appcleaner](https://freemacsoft.net/appcleaner/)
 * [wiresharek](https://www.wireshark.org)
 * [microsoft-office](https://products.office.com/zh-tw/home)
+* [nordic-nrf5x-command-line-tools](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.tools%2Fdita%2Ftools%2Fnrf5x_command_line_tools%2Fnrf5x_installation.html)
 
 ### Packages installed through pip
 These packages are installed through pip
