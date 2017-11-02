@@ -33,3 +33,9 @@ curl https://raw.githubusercontent.com/LSChyi/Mac_quick_setup/master/.vimrc -o ~
 curl http://ftp.vim.org/vim/runtime/syntax/cuda.vim --create-dirs -o ~/.vim/syntax/cuda.vim
 curl https://raw.githubusercontent.com/tomasr/molokai/master/colors/molokai.vim --create-dirs -o ~/.vim/colors/molokai.vim
 vim +PluginInstall +qall
+
+# install rvm and ruby
+\curl -sSL https://get.rvm.io | bash -s stable --ruby
+source ~/.rvm/scripts/rvm
+
+gem install iStats

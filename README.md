@@ -87,6 +87,11 @@ These packages are installed through npm
 
 * [http-server](https://www.npmjs.com/package/http-server)
 
+### RVM, Ruby and Ruby Gems
+This script uses RVM. The following gems are installed through ruby installed through RVM.
+
+* [iStats](https://github.com/ningt/iStats)
+
 ## Oh My Zsh
 This script also help install the [oh my zsh](http://ohmyz.sh). It also install the [powerline fonts](https://github.com/powerline/fonts) for you
 
