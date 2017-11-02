@@ -40,4 +40,5 @@ vim +PluginInstall +qall
 \curl -sSL https://get.rvm.io | bash -s stable --ruby
 source ~/.rvm/scripts/rvm
 
-gem install iStats
+rb_gems="iStats awesome_print"
+gem install $rb_gems
