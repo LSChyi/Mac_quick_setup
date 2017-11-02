@@ -33,6 +33,7 @@ These packages are installed through homebrew:
 * [pv](https://linux.die.net/man/1/pv)
 * [mpv](https://mpv.io/installation/)  
 * [htop](https://github.com/hishamhm/htop)
+* [avr-gcc](https://github.com/osx-cross/homebrew-avr)
 
 ### Packages installed through Homebrew Cask
 These packages are installed through Homebrew cask
