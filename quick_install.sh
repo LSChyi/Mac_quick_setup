@@ -12,7 +12,7 @@ sh_packages="git aria2 node python3 nload lftp tmux zsh tree wget wine freetype 
 brew install $sh_packages
 brew upgrade $sh_packages
 
-apps="libreoffice libreoffice-language-pack google-chrome firefox slack macdown sublime-text messenger alfred telegram-desktop cd-to arduino vlc teensy tunnelblick karabiner-elements iterm2 nally appcleaner wireshark microsoft-office nordic-nrf5x-command-line-tools"
+apps="libreoffice libreoffice-language-pack google-chrome firefox slack macdown sublime-text messenger alfred telegram-desktop cd-to arduino vlc teensy tunnelblick karabiner-elements iterm2 nally appcleaner wireshark microsoft-office nordic-nrf5x-command-line-tools android-platform-tools"
 brew cask install $apps
 
 py_packages="Django h5py html5lib httpie jupyter Keras matplotlib Pillow request sklearn tqdm virtualenv youtube-dl termcolor ipython beautifulsoup4 speedtest-cli mps-youtube"
