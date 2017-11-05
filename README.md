@@ -34,6 +34,7 @@ These packages are installed through homebrew:
 * [mpv](https://mpv.io/installation/)  
 * [htop](https://github.com/hishamhm/htop)
 * [avr-gcc](https://github.com/osx-cross/homebrew-avr)
+* [nmap](https://nmap.org)
 
 ### Packages installed through Homebrew Cask
 These packages are installed through Homebrew cask
