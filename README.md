@@ -35,6 +35,7 @@ These packages are installed through homebrew:
 * [htop](https://github.com/hishamhm/htop)
 * [avr-gcc](https://github.com/osx-cross/homebrew-avr)
 * [nmap](https://nmap.org)
+* [z](https://github.com/rupa/z)
 
 ### Packages installed through Homebrew Cask
 These packages are installed through Homebrew cask
