@@ -36,6 +36,7 @@ These packages are installed through homebrew:
 * [avr-gcc](https://github.com/osx-cross/homebrew-avr)
 * [nmap](https://nmap.org)
 * [z](https://github.com/rupa/z)
+* [iperf](https://iperf.fr)
 
 ### Packages installed through Homebrew Cask
 These packages are installed through Homebrew cask

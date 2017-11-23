@@ -8,7 +8,7 @@ brew tap osx-cross/avr
 brew tap caskroom/drivers
 
 brew cask install xquartz # due to wine, xquartz is needed to be installed first
-sh_packages="git aria2 node python3 nload lftp tmux zsh tree wget wine freetype p7zip cmake rsync youtube-dl sqlite coreutils gcc pv mpv htop avr-gcc nmap z"
+sh_packages="git aria2 node python3 nload lftp tmux zsh tree wget wine freetype p7zip cmake rsync youtube-dl sqlite coreutils gcc pv mpv htop avr-gcc nmap z iperf"
 brew install $sh_packages
 brew upgrade $sh_packages
 
