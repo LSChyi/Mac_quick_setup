@@ -57,7 +57,7 @@ These packages are installed through Homebrew cask
 * [vlc](https://www.videolan.org/vlc/index.zh-TW.html)
 * [teensy](https://www.pjrc.com/teensy/)
 * [tunnelblick](https://tunnelblick.net/downloads.html)
-* [karabiner-elements](https://pqrs.org/osx/karabiner/)
+* [karabiner-elements](https://pqrs.org/osx/karabiner/) \* required root password
 * [iterm2](https://www.iterm2.com)
 * [nally](https://yllan.org/app/Nally/)
 * [appcleaner](https://freemacsoft.net/appcleaner/)
@@ -65,6 +65,9 @@ These packages are installed through Homebrew cask
 * [microsoft-office](https://products.office.com/zh-tw/home)
 * [nordic-nrf5x-command-line-tools](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.tools%2Fdita%2Ftools%2Fnrf5x_command_line_tools%2Fnrf5x_installation.html)
 * [android-platform-tools](https://developer.android.com/studio/releases/platform-tools.html)
+* [osxfuse](https://osxfuse.github.io)
+
+\* To allow the write function on NTFS, you need to do some change with the SIP disabled. There is a tutorial [post](https://medium.com/@technikhil/setting-up-ntfs-3g-on-your-mac-os-sierra-11eff1749898).
 
 ### Packages installed through pip
 These packages are installed through pip
