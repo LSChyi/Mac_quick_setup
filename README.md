@@ -29,6 +29,7 @@ These packages are installed through homebrew:
 * [rsync](https://rsync.samba.org)  
 * [youtube-dl](https://rg3.github.io/youtube-dl/)
 * [sqlite](https://www.sqlite.org)  
+* [coreutils](https://www.gnu.org/software/coreutils/coreutils.html)
 * [gcc](https://gcc.gnu.org)  
 * [pv](https://linux.die.net/man/1/pv)
 * [mpv](https://mpv.io/installation/)  
