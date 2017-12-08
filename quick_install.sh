@@ -24,7 +24,7 @@ echo -e $pass | sudo -S -H pip3 install $py_packages -U
 
 npm install http-server -g
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" # install on my zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" # install oh my zsh
 # source z after .zshrc is installed
 echo "source /usr/local/etc/profile.d/z.sh" >> ~/.zshrc
 # install power font
