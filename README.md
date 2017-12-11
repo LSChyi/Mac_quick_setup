@@ -55,7 +55,7 @@ and easily being upgraded. These packages are installed through Homebrew cask
 * [macdown](https://macdown.uranusjr.com)
 * [sublime-text](https://www.sublimetext.com)
 * [messenger](https://fbmacmessenger.rsms.me)
-* [alfred](https://www.alfredapp.com)
+* [cerebro](https://cerebroapp.com/)
 * [telegram-desktop](https://telegram.org)
 * [cd-to](https://github.com/jbtule/cdto)
 * [arduino](https://www.arduino.cc)
