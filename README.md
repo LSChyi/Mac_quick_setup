@@ -38,6 +38,7 @@ These packages are installed through homebrew:
 * [nmap](https://nmap.org)
 * [z](https://github.com/rupa/z)
 * [iperf](https://iperf.fr)
+* [pass](https://www.passwordstore.org/)
 
 ### Packages installed through Homebrew Cask
 Withe buo/cask-upgarde tapped, these apps can be managed through
