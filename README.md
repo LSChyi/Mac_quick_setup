@@ -40,7 +40,11 @@ These packages are installed through homebrew:
 * [iperf](https://iperf.fr)
 
 ### Packages installed through Homebrew Cask
-These packages are installed through Homebrew cask
+Withe buo/cask-upgarde tapped, these apps can be managed through
+
+    brew cu
+
+and easily being upgraded. These packages are installed through Homebrew cask
 
 * [xquartz](https://www.xquartz.org)  
 * [libreoffice](https://zh-tw.libreoffice.org)  

@@ -4,6 +4,7 @@ read -sp "Please enter your sudo password:" pass
 xcode-select --install
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" # install homebrew
 brew tap caskroom/cask
+brew tap buo/cask-upgrade
 brew tap osx-cross/avr
 brew tap caskroom/drivers
 
