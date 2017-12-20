@@ -13,10 +13,11 @@ Plugin 'jiangmiao/auto-pairs'
 Plugin 'fatih/vim-go'
 Plugin 'mattn/emmet-vim'
 Plugin 'posva/vim-vue'
+Plugin 'Vimjas/vim-python-pep8-indent'
 Bundle "https://github.com/keith/swift.vim.git"
 Bundle "http://github.com/tpope/vim-endwise.git"
 call vundle#end()
-filetype plugin on
+filetype plugin indent on
 
 " Settings
     " about tab and spaces
