@@ -73,6 +73,7 @@ and easily being upgraded. These packages are installed through Homebrew cask
 * [android-platform-tools](https://developer.android.com/studio/releases/platform-tools.html)
 * [osxfuse](https://osxfuse.github.io)
 * [shadowsocksx-ng](https://github.com/shadowsocks/ShadowsocksX-NG)
+* [Paintbrush](https://paintbrush.sourceforge.io)
 
 \* To allow the write function on NTFS, you need to do some change with the SIP disabled. There is a tutorial [post](https://medium.com/@technikhil/setting-up-ntfs-3g-on-your-mac-os-sierra-11eff1749898).
 
