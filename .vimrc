@@ -16,7 +16,7 @@ Plugin 'posva/vim-vue'
 Bundle "https://github.com/keith/swift.vim.git"
 Bundle "http://github.com/tpope/vim-endwise.git"
 call vundle#end()
-filetype plugin indent on
+filetype plugin on
 
 " Settings
     " about tab and spaces
@@ -42,7 +42,6 @@ set foldmethod=syntax
 set foldlevel=5
 
 syntax on
-filetype plugin indent on
 autocmd Filetype ruby setlocal ts=2 sw=2 softtabstop=2 expandtab
 au BufNewFile,BufRead *.cu set ft=cuda
 au BufNewFile,BufRead *.cuh set ft=cuda
