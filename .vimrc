@@ -36,6 +36,7 @@ set cursorline
 set number " set nu
 set ruler
 set showcmd
+set colorcolumn=80
 set t_Co=256
 set backspace=indent,eol,start
 set linebreak
