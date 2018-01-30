@@ -13,6 +13,7 @@ Plugin 'jiangmiao/auto-pairs'
 Plugin 'fatih/vim-go'
 Plugin 'mattn/emmet-vim'
 Plugin 'posva/vim-vue'
+Plugin 'tpope/vim-fugitive'
 Plugin 'Vimjas/vim-python-pep8-indent'
 Bundle "https://github.com/keith/swift.vim.git"
 Bundle "http://github.com/tpope/vim-endwise.git"
@@ -54,4 +55,3 @@ au Filetype javascript setlocal ts=2 sw=2 softtabstop=2 expandtab
 nnoremap <c-n> :noh<return><esc>
 nnoremap <c-l> :tabn<CR>
 nnoremap <c-h> :tabp<CR>
-
