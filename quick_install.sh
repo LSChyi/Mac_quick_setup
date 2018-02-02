@@ -8,11 +8,11 @@ brew tap buo/cask-upgrade
 brew tap caskroom/drivers
 
 brew cask install xquartz # due to wine, xquartz is needed to be installed first
-sh_packages="git aria2 node python3 nload lftp tmux zsh tree wget wine freetype p7zip cmake rsync youtube-dl sqlite coreutils gcc pv mpv htop nmap z iperf ntfs-3g pass Paintbrush"
+sh_packages="git aria2 node python3 nload lftp tmux zsh tree wget wine freetype p7zip cmake rsync youtube-dl sqlite coreutils gcc pv mpv htop nmap z iperf ntfs-3g pass ctags"
 brew install $sh_packages
 brew upgrade $sh_packages
 
-apps="libreoffice libreoffice-language-pack google-chrome firefox slack macdown sublime-text messenger alfred telegram-desktop cd-to arduino vlc teensy tunnelblick karabiner-elements iterm2 nally appcleaner wireshark microsoft-office nordic-nrf5x-command-line-tools android-platform-tools osxfuse shadowsocksx-ng"
+apps="libreoffice libreoffice-language-pack google-chrome firefox slack macdown sublime-text messenger alfred telegram-desktop cd-to arduino vlc teensy tunnelblick karabiner-elements iterm2 nally appcleaner wireshark microsoft-office nordic-nrf5x-command-line-tools android-platform-tools osxfuse shadowsocksx-ng Paintbrush"
 brew cask install --force $apps
 
 py_packages="Django h5py html5lib httpie jupyter Keras matplotlib Pillow request sklearn tqdm virtualenv youtube-dl termcolor ipython beautifulsoup4 speedtest-cli mps-youtube trash"
