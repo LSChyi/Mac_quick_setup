@@ -40,6 +40,7 @@ These packages are installed through homebrew:
 * [iperf](https://iperf.fr)
 * [pass](https://www.passwordstore.org/)
 * [ctags](https://github.com/universal-ctags/ctags)
+* [ag](https://github.com/ggreer/the_silver_searcher)
 
 ### Packages installed through Homebrew Cask
 Withe buo/cask-upgarde tapped, these apps can be managed through
