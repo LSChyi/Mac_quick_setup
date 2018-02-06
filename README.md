@@ -39,6 +39,7 @@ These packages are installed through homebrew:
 * [z](https://github.com/rupa/z)
 * [iperf](https://iperf.fr)
 * [pass](https://www.passwordstore.org/)
+* [ctags](https://github.com/universal-ctags/ctags)
 
 ### Packages installed through Homebrew Cask
 Withe buo/cask-upgarde tapped, these apps can be managed through
