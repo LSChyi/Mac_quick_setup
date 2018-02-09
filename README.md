@@ -127,7 +127,13 @@ These vim plugins are installed by Vundle
 * [auto-pairs](https://github.com/jiangmiao/auto-pairs)
 * [vim-go](https://github.com/fatih/vim-go)
 * [emmit-vim](https://github.com/mattn/emmet-vim)
+* [vim-vue](https://github.com/posva/vim-vue)
+* [vim-fugitive](https://github.com/tpope/vim-fugitive)
+* [vim-python-pep8-indent](https://github.com/Vimjas/vim-python-pep8-indent)
+* [vim-airline](https://github.com/vim-airline/vim-airline)
+* [vim-surround](https://github.com/tpope/vim-surround)
 * [swift.vim](https://github.com/keith/swift.vim)
+* [tagbar](https://github.com/majutsushi/tagbar)
 * [endwise.vim](http://github.com/tpope/vim-endwise)
 
 ### Extra Syntax, indent
