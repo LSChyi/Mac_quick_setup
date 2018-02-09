@@ -14,9 +14,10 @@ Plugin 'fatih/vim-go'
 Plugin 'mattn/emmet-vim'
 Plugin 'posva/vim-vue'
 Plugin 'tpope/vim-fugitive'
+Plugin 'tpope/vim-surround'
+Plugin 'tpope/vim-commentary'
 Plugin 'Vimjas/vim-python-pep8-indent'
 Plugin 'vim-airline/vim-airline'
-Plugin 'tpope/vim-surround'
 Bundle "https://github.com/keith/swift.vim.git"
 Bundle "https://github.com/majutsushi/tagbar.git"
 Bundle "https://github.com/tpope/vim-endwise.git"
