@@ -5,10 +5,11 @@ xcode-select --install
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" # install homebrew
 brew tap caskroom/cask
 brew tap buo/cask-upgrade
+brew tap osx-cross/avr
 brew tap caskroom/drivers
 
 brew cask install xquartz # due to wine, xquartz is needed to be installed first
-sh_packages="git aria2 node python3 nload lftp tmux zsh tree wget wine freetype p7zip cmake rsync youtube-dl sqlite coreutils gcc pv mpv htop nmap z iperf ntfs-3g pass ctags ag vim"
+sh_packages="git aria2 node python3 nload lftp tmux zsh tree wget wine freetype p7zip cmake rsync youtube-dl sqlite coreutils gcc pv mpv htop nmap z iperf ntfs-3g pass ctags ag vim avr-gcc"
 brew install $sh_packages
 brew upgrade $sh_packages
 
