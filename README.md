@@ -139,3 +139,15 @@ These vim plugins are installed by Vundle
 
 ### Extra Syntax, indent
 The script installs the syntax for [CUDA](https://developer.nvidia.com/cuda-downloads), and the javascript indentation follows the eslint style from airbnb.
+
+## tmux
+There are some settings for tmux for my vim habit and GUI:
+
+* mouse: use mouse click to select pane
+* bind-keys:
+	* v: vertical split
+	* s: horizontal split
+	* h: move to left pane
+	* j: move to down pane
+	* k: move to up pane
+	* l: move to left pane
