@@ -44,3 +44,5 @@ source ~/.rvm/scripts/rvm
 
 rb_gems="iStats awesome_print"
 gem install $rb_gems
+
+curl https://raw.githubusercontent.com/LSChyi/Mac_quick_setup/master/.tmux.conf -o ~/.tmux.conf
