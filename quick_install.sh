@@ -16,7 +16,7 @@ brew upgrade $sh_packages
 apps="libreoffice libreoffice-language-pack google-chrome firefox slack macdown sublime-text messenger alfred telegram-desktop cd-to arduino vlc teensy tunnelblick karabiner-elements iterm2 nally appcleaner wireshark microsoft-office nordic-nrf5x-command-line-tools android-platform-tools osxfuse shadowsocksx-ng Paintbrush"
 brew cask install --force $apps
 
-py_packages="Django h5py html5lib httpie jupyter Keras matplotlib Pillow request sklearn tqdm virtualenv youtube-dl termcolor ipython beautifulsoup4 speedtest-cli mps-youtube trash"
+py_packages="Django h5py html5lib httpie jupyter Keras matplotlib Pillow request sklearn tqdm virtualenv youtube-dl termcolor ipython beautifulsoup4 speedtest-cli mps-youtube trash-cli"
 echo -e $pass | sudo -S -H easy_install pip # install pip for original python in mac system
 echo -e $pass | sudo -S -H pip install $py_packages
 echo -e $pass | sudo -S -H pip install $py_packages -U
