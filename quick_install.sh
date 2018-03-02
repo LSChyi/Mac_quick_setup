@@ -9,7 +9,7 @@ brew tap osx-cross/avr
 brew tap caskroom/drivers
 
 brew cask install xquartz # due to wine, xquartz is needed to be installed first
-sh_packages="git aria2 node python3 nload lftp tmux zsh tree wget wine freetype p7zip cmake rsync youtube-dl sqlite coreutils gcc pv mpv htop nmap z iperf ntfs-3g pass ctags ag vim avr-gcc"
+sh_packages="git aria2 node python3 nload lftp tmux zsh tree wget wine freetype p7zip cmake rsync youtube-dl sqlite coreutils gcc pv mpv htop nmap z iperf ntfs-3g pass ctags ag vim avr-gcc reattach-to-user-namespace"
 brew install $sh_packages
 brew upgrade $sh_packages
 
@@ -47,3 +47,4 @@ rb_gems="iStats awesome_print"
 gem install $rb_gems
 
 curl https://raw.githubusercontent.com/LSChyi/Mac_quick_setup/master/.tmux.conf -o ~/.tmux.conf
+

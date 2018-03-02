@@ -42,6 +42,7 @@ These packages are installed through homebrew:
 * [ctags](https://github.com/universal-ctags/ctags)
 * [ag](https://github.com/ggreer/the_silver_searcher)
 * [vim](https://vim.sourceforge.io)
+* [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
 
 ### Packages installed through Homebrew Cask
 Withe buo/cask-upgarde tapped, these apps can be managed through
