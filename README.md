@@ -151,3 +151,7 @@ There are some settings for tmux for my vim habit and GUI:
 	* j: move to down pane
 	* k: move to up pane
 	* l: move to left pane
+
+I also uses TPM ([Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)) to install tmux plugins, and the following plugins are installed:
+
+* [tmux-yank](https://github.com/tmux-plugins/tmux-yank)

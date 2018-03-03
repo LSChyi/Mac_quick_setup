@@ -46,4 +46,6 @@ source ~/.rvm/scripts/rvm
 rb_gems="iStats awesome_print"
 gem install $rb_gems
 
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 curl https://raw.githubusercontent.com/LSChyi/Mac_quick_setup/master/.tmux.conf -o ~/.tmux.conf
+echo "TPM and tmux.conf is installed, to enable the system copy plugin (tmux-yank), remember to enable allow application to access clipboard in the setting of iTerm2 and install plugins in tmux sesstion"
