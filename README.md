@@ -42,6 +42,7 @@ These packages are installed through homebrew:
 * [ctags](https://github.com/universal-ctags/ctags)
 * [ag](https://github.com/ggreer/the_silver_searcher)
 * [vim](https://vim.sourceforge.io)
+* [reattach-to-user-namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
 
 ### Packages installed through Homebrew Cask
 Withe buo/cask-upgarde tapped, these apps can be managed through
@@ -101,7 +102,7 @@ These packages are installed through pip
 * [beautifulsoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [speedtest-cli](https://github.com/sivel/speedtest-cli)
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube)
-* [trash](https://github.com/jleclanche/python-trash)
+* [trash-cli](https://github.com/andreafrancia/trash-cli)
 
 ### Packages installed through npm
 These packages are installed through npm
